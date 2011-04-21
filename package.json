@@ -1,0 +1,17 @@
+{
+  "name": "stash3_obj_importer",
+  "description": "Obj 3D file importer for stash3",
+  "version": "0.1.0",
+  "author": "Jonathan Maim <jonathan.maim@gmail.com>",
+  "dependencies": {
+    "jade": ">= 0.10.4 < 1.0.0",
+    "underscore": ">= 1.1.6 < 2.0.0",
+    "async": ">= 0.1.8 < 1.0.0",
+    "formidable": ">= 1.0.0",
+    "coffee-script": ">= 1.0.1 < 2.0.0"
+  },
+  "keywords": ["obj", "3d", "web", "social"],
+  "repository": "git://github.com:minsh/stash3",
+  "engines": { "node": "= 0.4.6" }
+}
+
